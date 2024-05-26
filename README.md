@@ -4,7 +4,7 @@
 
 - **Active Discord Developer**
   - *Apprentice CTF Player*
-    - HTB >>> TryHackMe
+    - TryHackMe >>> HTB
 
 ## 🌐 Links ↴
              - [GitHub Profile](https://github.com/Fin1sher)
